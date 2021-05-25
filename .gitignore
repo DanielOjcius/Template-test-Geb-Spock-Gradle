@@ -1,0 +1,9 @@
+build
+.gradle
+*.log
+*.ipr
+*.iml
+*.iws
+.DS_Store
+out
+.idea
